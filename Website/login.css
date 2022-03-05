@@ -1,0 +1,23 @@
+.body {
+	display: flex;
+}
+
+
+#frm{
+	border: solid gray 2px;
+	width: 20%;
+	border-radius: 10px;
+	margin: 100px auto;
+	background: white;
+	padding: 50px;
+	text-align: center;
+}
+
+#btn{
+	color: #fff;
+	background: #337ab7;
+	padding: 5px;
+	margin-left: 69%;
+	width: 30%;
+	
+}
